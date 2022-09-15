@@ -4,3 +4,4 @@
 bin/
 server/*.class
 client/*.class
+.ds_store
