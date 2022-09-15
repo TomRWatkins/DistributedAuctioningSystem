@@ -1,0 +1,6 @@
+.project
+.classpath
+*.class
+bin/
+server/*.class
+client/*.class
